@@ -12,6 +12,7 @@
   <depend>roscpp</depend>
   <depend>project11</depend>
   <depend>geometry_msgs</depend>
+  <depend>geographic_msgs</depend>
   <depend>message_generation</depend>
   <depend>message_runtime</depend>
   <depend>tf</depend>
